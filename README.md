@@ -2,4 +2,4 @@
 - 👀 I’m interested in backend SWE, MLOps, AI/ML
 - 🌊 My personal interests include fashion, surfing, and marine biology
 - 👩‍💻 I’m looking for new grad/entry level SWE roles
-- 💌 You can reach me at minamiy@berkeley.edu or through [LinkedIn](https://www.linkedin.com/in/minami-y-4523281a3/)
+- 💌 You can reach me at minamiy@berkeley.edu or through [LinkedIn](https://www.linkedin.com/in/minamiy/)
